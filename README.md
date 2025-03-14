@@ -47,5 +47,22 @@ I'm a **Freelance Data Analyst** with a background in **Mathematics (Probability
 
 ---
 
+## 🐍 GitHub Contributions Snake Animation
+![snake gif](https://github.com/vikkapoor/vikkapoor/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 GitHub Stats
+![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikkapoor&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikkapoor&layout=compact&theme=tokyonight)
+
+## 🏆 GitHub Profile Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=vikkapoor&theme=darkhub)
+
+## 💡 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
 ## 📬 **Connect with Me**  
 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vikramkap)  |  **Email**: [Click 📧](mailto:vikkapoor@mail.com)
