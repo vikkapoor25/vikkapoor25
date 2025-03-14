@@ -47,4 +47,4 @@ I'm a **Freelance Data Analyst** with a background in **Mathematics (Probability
 ---
 
 ## 📬 **Connect with Me**  
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vikramkap) | Email: [Click Here](mailto:vikkapoor@mail.com)
+**LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vikramkap)  |  **Email**: [Click 📧](mailto:vikkapoor@mail.com)
