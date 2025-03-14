@@ -1,3 +1,5 @@
+<img src = 'Final Banner.png' alt = 'GitHub Banner' Width = '100%' />
+
 # 👋 Hi, I'm Vikram Kapoor!
 
 I'm a **Freelance Data Analyst** with a background in **Mathematics (Probability & Statistics)** and **4 years of corporate experience** at **Lloyds Banking Group and BAE Systems**. I specialize in **Python, SQL, Tableau, and ETL solutions**, transforming raw data into actionable insights.
