@@ -45,9 +45,6 @@ I'm a **Freelance Data Analyst** with a background in **Mathematics (Probability
 ### **📈 Agile & Project Management**  
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)  ![Scrum](https://img.shields.io/badge/Scrum-1572B6?style=flat&logo=agile&logoColor=white)  ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)  
 
-## 📊 GitHub Stats  
-![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikkapoor25&show_icons=true&theme=tokyonight)
-
 ---
 
 <picture>
