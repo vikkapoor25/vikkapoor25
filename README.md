@@ -13,15 +13,15 @@ I'm a **Freelance Data Analyst** with a background in **Mathematics (Probability
 
 ## 📂 Featured Projects  
 
-🔹 **📊 [Job Market Analysis](https://github.com/vikkapoor25/Data_Skills_Project_Python)**  
-- **Analyzed 1,000+ job postings** using **Python (Pandas, Matplotlib, Seaborn)** to identify **top-paying and in-demand skills** for Data Analysts, Data Engineers, and Data Scientists across the **UK, US, and India**.  
+**📊 [Job Market Analysis](https://github.com/vikkapoor25/Data_Skills_Project_Python)**  
+- **Analysed 1,000+ job postings** using **Python (Pandas, Matplotlib, Seaborn)** to identify **top-paying and in-demand skills** for Data Analysts, Data Engineers, and Data Scientists across the **UK, US, and India**.  
 - Provided **data-driven insights** to help professionals **upskill effectively** based on **real market trends**.  
 
-🔹 **🏡 [UK Property Sales Analysis](https://github.com/vikkapoor25/HMLR_Price_Paid_Project_SQL)**  
+**🏡 [UK Property Sales Analysis](https://github.com/vikkapoor25/HMLR_Price_Paid_Project_SQL)**  
 - Investigated **UK property sales trends, regional price variations, and buyer behavior**, helping **homebuyers, investors, financial institutions, and policymakers** make informed decisions.  
-- Developed an **end-to-end data pipeline** using **Python (Data Cleaning, Dimensional Data Modeling), SQL (Database & Table Creation, Data Loading, Querying), and Tableau (Dashboards & Visualizations)**.  
+- Developed an **end-to-end data pipeline** using **Python (Data Cleaning, Dimensional Data Modeling), SQL (Database & Table Creation, Data Loading, Querying), and Tableau (Dashboards & Visualisations)**.  
 
-🔹 **💰 [Crypto Market Web Scraping & ML]() (Upcoming)**  
+**💰 [Crypto Market Web Scraping & ML]() (Upcoming)**  
 - Automating **web scraping of cryptocurrency market data** and applying **AI-driven analysis to detect trading patterns** and investment signals.  
 - Building a **real-time dashboard** for interactive **data visualization and trend forecasting**.  
 
@@ -47,5 +47,6 @@ I'm a **Freelance Data Analyst** with a background in **Mathematics (Probability
 ---
 
 ## 📬 **Connect with Me**  
-📧 [Email Me](mailto:vikkapoor@mail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vikramkap) 
+
+📧 [Email Me](mailto:vikkapoor@mail.com)
